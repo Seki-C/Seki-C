@@ -13,6 +13,3 @@
 - ネットワーク自動化スキルの習得
 - クラウドインフラの理解
 
-## 連絡先
-- Email: xxxxx@example.com
-- LinkedIn: [鈴木太郎](https://linkedin.com/in/xxxx)

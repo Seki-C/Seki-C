@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Seki-C
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# seki-cのネットワークエンジニアポートフォリオ
 
-<!---
-Seki-C/Seki-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 自己紹介
+ネットワークエンジニアを目指しています。CCNA勉強中で、サーバー・インフラの基礎を学習しています。
+
+## スキル
+- 勉強中: CCNA、基本的なLinux操作
+- ツール: Wireshark、Packet Tracer
+- 基本知識: TCP/IP、LAN、WAN、スイッチング、ルーティング
+
+## 目標
+- CCNA取得
+- ネットワーク自動化スキルの習得
+- クラウドインフラの理解
+
+## 連絡先
+- Email: xxxxx@example.com
+- LinkedIn: [鈴木太郎](https://linkedin.com/in/xxxx)
